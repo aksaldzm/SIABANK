@@ -1,0 +1,2 @@
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\SIABANK.exe
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\SIABANK.pdb

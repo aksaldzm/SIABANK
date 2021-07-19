@@ -1,0 +1,8 @@
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\bin\Debug\SIABANK.exe
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\bin\Debug\SIABANK.pdb
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\SIABANK.Form1.resources
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\SIABANK.Properties.Resources.resources
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\SIABANK.RegNab.resources
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\Administrasi_Bank.csproj.GenerateResource.Cache
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\SIABANK.exe
+E:\pbo2\Akshal_2C\SIABANK\SIABANK\obj\x86\Debug\SIABANK.pdb
